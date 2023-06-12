@@ -1,0 +1,10 @@
+* defclass-std
+
+A shortcut macro to write DEFCLASS forms quickly
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/EuAndreh/defclass-std.git   |
+| commit  | a4d3226  |
+| systems | defclass-std |
+|---------+-------------------------------------------|
+
