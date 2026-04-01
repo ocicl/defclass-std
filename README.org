@@ -7,3 +7,4 @@ A shortcut macro to write DEFCLASS forms quickly
 | commit  | 6d003a5                                                  |
 | systems | defclass-std                                             |
 |---------+----------------------------------------------------------|
+ 
